@@ -1,4 +1,6 @@
-# 1、26条有效的提示词技巧
+# 1、26条有效的提示词技巧 
+*可能没有业界大佬写的厉害*
+**这些是prompt指导原则，你可以复制你所需要的部分到AI对话框中，指导AI帮你生成prompt**
 ## 1.1 论文地址
 **论文名称:**                         
 《Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4》                                                        
